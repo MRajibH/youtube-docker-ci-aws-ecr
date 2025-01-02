@@ -14,7 +14,7 @@ Before getting started, ensure you have the following:
 2. Once forked, go to your profile on GitHub, and clone the repository down to your local machine:
 
 ```bash
-git clone https://github.com/headinthecloud5/youtube-docker-ci-aws-ecr.git
+git clone https://github.com/MRajibH/youtube-docker-ci-aws-ecr.git
 ```
 
 3. Navigate to the cloned repository:
